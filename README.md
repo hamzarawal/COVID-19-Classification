@@ -4,11 +4,13 @@ This COVID-19 Classification competition was assigned to Deep Learning Spring 20
 #### Dataset Details
 This dataset is a sub-set of ??? open source dataset. It contains both chest X-Ray and CT-scan images. We have divided the dataset into train/validation/test sets manually. Following is the distribution:
 
+
 | Class | Train | Validation | Test |
 | ------------- | ------------- | ---- |
-| COVID  | 200  |   | 29 |
-| Pneumonia  | 2000  |   | 2000 |
-| Nomral | 4000 | | 400 |
+| COVID  | 200  | asd  | 29 |
+| Pneumonia  | 2000  | dasd  | 2000 |
+| Nomral | 4000 | asd | 400 |
+
 
 Dataset can be downloaded from [here](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing)
 
