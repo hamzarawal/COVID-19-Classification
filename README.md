@@ -4,6 +4,8 @@ This COVID-19 Classification competition was assigned to Deep Learning Spring 20
 #### Dataset Details
 
 
+Dataset can be downloaded from [here](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing)
+
 #### Multi-label and Multi-class Classification
 This is multi-label and multi-class competition where there are three classes in total (COVID, Pneumonia and Normal). An image that belongs to COVID class also belongs to Pneumonia class. So all COVID class samples are also a sub-class of Pneumonia but an image belonging to Pneumonia class does not necessarily belongs to COVID class.
 
