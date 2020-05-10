@@ -6,7 +6,7 @@ This dataset is a sub-set of ??? open source dataset. It contains both chest X-R
 
 
 | Class | Train | Validation | Test |
-| ------------- | ------------- | ---- |
+| ----- | ---- | ---- | ---- |
 | COVID  | 200  | asd  | 29 |
 | Pneumonia  | 2000  | dasd  | 2000 |
 | Nomral | 4000 | asd | 400 |
