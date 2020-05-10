@@ -1,5 +1,6 @@
 # COVID-19-Classification
-This COVID-19 Classification competition was assigned to Deep Learning Spring 2020 class at Information Technology University, Lahore, Pakistan. The goal was to fine-tune any backbone classifier and report their results on the test data. Test data labels are hidden, so students could verify the working of their models only on the validation data provided. This competition was organized only for learning purposes and does not hold any clinical importance.
+This COVID-19 Classification competition was assigned to Deep Learning Spring 2020 class at Information Technology University, Lahore, Pakistan. The goal was to fine-tune any backbone classifier and report their results on the test data. Test data labels are hidden, so students could verify the working of their models only on the validation data provided. 
+Important: This competition was organized only for learning purposes and does not hold any clinical importance.
 
 #### Dataset Details
 This dataset is a sub-set of ??? open source dataset. It contains both chest X-Ray and CT-scan images. We have divided the dataset into train/validation/test sets manually. Following is the distribution:
@@ -17,7 +18,7 @@ Dataset can be downloaded from [here](https://drive.google.com/file/d/1eytbwaLQB
 This is multi-label and multi-class competition where there are three classes in total (COVID, Pneumonia and Normal). An image that belongs to COVID class also belongs to Pneumonia class. So all COVID class samples are also a sub-class of Pneumonia but an image belonging to Pneumonia class does not necessarily belongs to COVID class.
 
 #### Class-imbalance and Focal Loss
-The dataset has a high class imbalance. Students were required to implement focal loss
+The dataset has a high class imbalance. Students were required to implement focal loss to handle this imbalance. They reported results for both with and without Focal Loss.
 
 #### Methodology
 Students had to submit a csv file containing classification results of test data. The csv has three columns in the following order:
