@@ -1,0 +1,2 @@
+# COVID-19-Classification
+This COVID-19 Classification competition was assigned to Deep Learning Spring 2020 class at Information Technology University. The goal was to fine-tune any backbone classifier and report their results on the test data. Test data labels are hidden, so students could verify the working of their models on the validation data provided. This competition was organized only for learning purposes and does not hold any clinical importance.
