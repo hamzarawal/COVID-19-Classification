@@ -17,3 +17,6 @@ Students had to submit a csv file containing classification results of test data
 
 The submitted results were then matched with the ground truth labels and accuracy and F1 score were reported.
 
+#### Leaderboard
+Results sorted by Accuracy can be found [here](https://docs.google.com/spreadsheets/d/1nPjAoDB_ZNP_JOyT1kPfSLUyLlvRynK3CpNB6a1yM9A/edit?usp=sharing)
+Results sorted by F1 score can be found [here](https://docs.google.com/spreadsheets/d/1Fs2lWGIDOzYrW58Zb_HSrPPznHqJbSN0svqIuMjCDXM/edit?usp=sharing)
